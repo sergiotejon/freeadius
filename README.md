@@ -75,4 +75,5 @@ File: conf.d/max_allowed_packer.cnf
 max_allowed_packet=256M
 ```
 
-An SQL scheme for FreeRadius on MySQL can be found here: https://wiki.freeradius.org/config/MySQL-DDL-script
+An SQL scheme for FreeRadius on MySQL can be found here:
+https://raw.githubusercontent.com/FreeRADIUS/freeradius-server/v4.0.x/raddb/mods-config/sql/main/mysql/schema.sql
