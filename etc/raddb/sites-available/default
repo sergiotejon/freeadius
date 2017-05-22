@@ -637,6 +637,8 @@ accounting {
 #	Acct-Type Status-Server {
 #
 #	}
+#
+	rediswho
 }
 
 
